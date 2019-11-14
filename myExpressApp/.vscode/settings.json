@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1986bde8-ece8-49fb-bc1c-2ff40d732fca/resourceGroups/HackNJIT/providers/Microsoft.Web/sites/aloistest2",
+    "appService.deploySubpath": ""
+}
